@@ -1,0 +1,31 @@
+_repo: Lukinverkkoja--Pieni--tomupiiloja-jotka-kotionneamme-haittaavat_17033
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, Harriet Elizabeth Beecher
+    - Crowfield, Christopher
+    - Stowe, H. B. (Harriet Beecher)
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: Translation of selections from "The Chimney-Corner"
+gutenberg_issued: '2005-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17033'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Social conditions'
+title: 'Lukinverkkoja: Pieniä tomupiiloja jotka kotionneamme haittaavat'
+url: http://www.gutenberg.org/ebooks/17033
